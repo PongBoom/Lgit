@@ -7,4 +7,4 @@ add a new merge -- dev1.
 add 1 & 2.
 push dev by `git push origin dev`.
 add clone user.
-main dev.
+main and clone dev push.
